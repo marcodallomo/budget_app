@@ -1,0 +1,67 @@
+html {
+  background-color: black;
+}
+
+.app-wrapper {
+  width: 80vw;
+  margin: 40px auto;
+  background-color: lightblue;
+  padding: 40px;
+  height: auto;
+}
+
+.header {
+  color: red;
+  font-size: 2rem;
+  text-shadow: 2px 4px white;
+}
+
+.balance {
+  color: white;
+  background-color: rgb(16, 117, 212);
+
+  padding: 20px;
+  border-radius: 2%;
+}
+
+.balanceT {
+  text-decoration: underline;
+}
+
+.subExp {
+  background-color: palevioletred;
+  color: white;
+}
+
+.subInc {
+  background-color: rgb(37, 185, 37);
+  color: white;
+}
+
+.transactions-income {
+  padding: 10px;
+  width: 40%vw;
+  border-radius: 2%;
+  background-color: rgb(37, 185, 37);
+  color: lightyellow;
+}
+
+.transactions-expense {
+  padding: 10px;
+  width: 40%vw;
+  border-radius: 2%;
+  background-color: palevioletred;
+  color: lightyellow;
+}
+.delete-btn {
+  background-color: plum;
+  color: white;
+  margin-left: 5px;
+}
+
+.transaction {
+  margin-right: 5px;
+}
+.transaction-amount {
+  margin-left: 10px;
+}
