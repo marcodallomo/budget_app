@@ -1,11 +1,13 @@
 html {
-  background-color: black;
+  background-color: rgb(37, 179, 223);
 }
 
 .app-wrapper {
   width: 80vw;
   margin: 40px auto;
   background-color: lightblue;
+  border-radius: 3%;
+  box-shadow: 10px 15px rgb(152, 220, 243, 0.3);
   padding: 40px;
   height: auto;
 }
